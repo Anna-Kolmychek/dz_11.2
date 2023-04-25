@@ -1,3 +1,5 @@
+# make hotfix
+
 def str_upper(value: str) -> str:
     """make all letters uppercase / docstring from jun"""
     return value.upper()
